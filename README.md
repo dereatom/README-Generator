@@ -20,4 +20,6 @@ THEN I am taken to the corresponding section of the README
  .gitignore file created and include node_modules/ and .DS_Store/ so that `node_modules` directory isn't tracked or uploaded to GitHub.
  repo includes a `package.json` with the required dependencies.
  Vidio and screenshots included in submision.
- A walkthrough video that demonstrates the functionality of the README generator must be submitted and a link to the video should be included in your README file.
+ A walkthrough video that demonstrates the functionality of the README generator was submitted and a link to the video included in README file. Here is the link (https://drive.google.com/file/d/1DkdBQDo7yzEr4RAS8EGBEShxbl639UV1/view).
+ walkthrough video was demonstrated how a user would enter responses to all of the prompts in the application and demonstrate a generated README that matches the user input and has a functioning table of contents.
+ Repository contains a high-quality README with description and a link to walkthrough video.
